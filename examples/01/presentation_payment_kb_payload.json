@@ -1,0 +1,11 @@
+{
+  "iat": 1793602800,
+  "exp": 1793603100,
+  "nonce": "agent-network",
+  "aud": "https://network.example.test",
+  "sd_hash": "q9lygjI7ojOtatAbdaJAwbCP8hexcwDQuejgapWYgTg",
+  "_sd_alg": "sha-256",
+  "delegate_payload": [
+    "4UebEWlbrQP6DWW7euPDumORXbOicTbaTyXoFaBPR0I"
+  ]
+}

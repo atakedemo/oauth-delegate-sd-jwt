@@ -1,0 +1,15 @@
+{
+  "vct": "https://example.test/vi/autonomous",
+  "cnf": {
+    "jwk": {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "BJS-pgDQ9kzyY1pJus2_eIFy2OtyCHgk8I6FTXOOXLk",
+      "y": "yDzeKYFFhVFXeDnf2JItju2e0UyU_2iOqXkLu-XnJFM"
+    }
+  },
+  "_sd": [
+    "579NMWAf7EW1HjPF7QwnYTZor7UzKVXbkxjWW1U3qxA",
+    "3HIX3OBdLBnZ1LHniOVXu91VPqabu6X3Z9CmCip3UiA"
+  ]
+}
